@@ -1,0 +1,7 @@
+export {default as Home} from './Home'
+export {default as House} from './House'
+export {default as Houses} from './Houses'
+export {default as Apartments} from './Apartments'
+export {default as Lofts} from './Lofts'
+export {default as Studios} from './Studios'
+export {default as Search} from './Search'
